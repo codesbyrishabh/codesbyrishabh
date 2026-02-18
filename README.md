@@ -31,25 +31,4 @@ Currently focusing on **DSA, Backend Development, and System Design**.
 
 ---
 
-## 📊 GitHub Stats  
-
-![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RishabhSingh&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Currently Working On  
-- Smart Library Management System (SmartLIB)  
-- AI-based Book Recommendation System  
-- DSA problem sets (Arrays, DP, Graphs)  
-
----
-
-## 🌐 Connect With Me  
-
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
-- 🧑‍💻 LeetCode: https://leetcode.com/your-username  
-- 📧 Email: yourmail@gmail.com  
-
----
-
-⭐ _"Code. Learn. Build. Repeat."_  
+⭐ _"I Code Things That Matter"_  
