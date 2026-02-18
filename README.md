@@ -3,14 +3,14 @@
 Computer Science Enthusiast | Java Developer | Problem Solver  
 
 I'm a passionate developer who loves building things with code and learning new technologies.  
-Currently focusing on **DSA, Backend Development, and System Design**.
+Currently focusing on **DSA, Backend Development, Data Analysis and AI-ML**.
 
 ---
 
   ## About Me  
-- 💻 Strong in **Java, C, and JavaScript**  
-- 📚 Learning **Spring Boot, Microservices, and Cloud**  
-- 🧩 Practicing **DSA (LeetCode, HackerRank, CodeChef)**  
+- 💻 Strong in **Java, C, Python, ML and JavaScript**  
+- 📚 Learning **Spring Boot, Microservices, and Rest APIs**  
+- 🧩 Practicing **DSA (LeetCode)**  
 - 🤝 Open to collaboration on interesting projects  
 
 ---
@@ -18,16 +18,16 @@ Currently focusing on **DSA, Backend Development, and System Design**.
 ## 🛠 Tech Stack  
 
 **Languages:**  
-`Java` `C` `JavaScript`  
+`Java` `C` `JavaScript` `Python` 
 
 **Backend:**  
-`Spring Boot` `JDBC` `Hibernate`  
+`Spring Boot` `JDBC` `Hibernate` `Rest APIs`  
 
 **Frontend:**  
 `HTML` `CSS` `JavaScript`  
 
 **Tools:**  
-`Git` `GitHub` `VS Code` `MySQL`
+`Git` `GitHub` `VS Code` `MySQL` `Scikit-learn`
 
 ---
 
